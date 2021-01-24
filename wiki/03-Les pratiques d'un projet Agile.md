@@ -3,7 +3,7 @@
 *  🔖 **Vision et valeur du produit**
 *  🔖 **Rôles et responsabilités**
 *  🔖 **Fonctionnement au quotidien de l'équipe de projet**
-*  🔖 **"Product Backlog" et "user stories"**
+*  🔖 **Product Backlog et user stories**
 *  🔖 **Definition of Done (DOD)**
 *  🔖 **Estimation (planning poker...)**
 *  🔖 **Dette technique**
