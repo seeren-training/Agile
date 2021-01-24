@@ -1,4 +1,4 @@
-# Les "pratiques" d'un projet Agile
+# Les pratiques d'un projet Agile
 
 *  🔖 **Vision et valeur du produit**
 *  🔖 **Rôles et responsabilités**
