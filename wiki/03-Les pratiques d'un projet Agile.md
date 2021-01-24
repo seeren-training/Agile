@@ -100,7 +100,7 @@ A chaque fabrication d'artifacts et chaque évènement, nous préciserons la res
 
 ___
 
-## 📑 Product Backlog et "user stories"
+## 📑 Product Backlog et user stories
 
 Le product backlog regroupe l'ensemble des histoires utilisateurs qui forment la demande. Tant qu'il y a un produit, il y a un product backlog associé, il est dynamique et se complète pendant la fabrication et la vie du produit.
 
