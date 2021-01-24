@@ -13,7 +13,7 @@ ___
 
 * [Qu'est-ce que l'Agilité](https://github.com/seeren-training/Agile/wiki/01)
 * [Présentation des principales approches Agiles](https://github.com/seeren-training/Agile/wiki/02)
-* [Les "pratiques" d'un projet Agile](https://github.com/seeren-training/Agile/wiki/03)
+* [Les pratiques d'un projet Agile](https://github.com/seeren-training/Agile/wiki/03)
 
 ___
 
