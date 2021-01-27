@@ -6,17 +6,17 @@
 *  🔖 **Lean**
 *  🔖 **Agilité et DevOps**
 
-L'agilité n'est pas instanciable, il faut implémenter ses valeurs et principes dans des cadres plus précis, il existe de nombreuses méthodologies agiles
-
-![image](https://raw.githubusercontent.com/seeren-training/Agile/master/wiki/resources/02/01-Agile-distribution.jpg)
-
 ___
 
 ## 📑 Scrum
 
+L'agilité n'est pas instanciable, il faut implémenter ses valeurs et principes dans des cadres plus précis, il existe de nombreuses méthodologies agiles
+
+![image](https://raw.githubusercontent.com/seeren-training/Agile/master/wiki/resources/02/01-Agile-distribution.jpg)
+
 Scrum encadre les sessions de travail pour de **3 à 9 personnes**. La méthode est décrite en 2002 dans le livre Agile Software Development With Scrum.
 
-🔗 [@see scrum guide](https://www.scrum.org/resources/scrum-guide?gclid=CjwKCAjwte71BRBCEiwAU_V9hwM5usG59GkN4f7sfAAm99sDgs5Tis2_Aukm-Tb74cXZDKe8wH-TIRoC_psQAvD_BwE)
+[The Scrum Guide](https://www.scrum.org/resources/scrum-guide?gclid=CjwKCAjwte71BRBCEiwAU_V9hwM5usG59GkN4f7sfAAm99sDgs5Tis2_Aukm-Tb74cXZDKe8wH-TIRoC_psQAvD_BwE)
 
 ![image ](https://raw.githubusercontent.com/seeren-training/Agile/master/wiki/resources/02/02-Scrum-overview.jpg)
 
