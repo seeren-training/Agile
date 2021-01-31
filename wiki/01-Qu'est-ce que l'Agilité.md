@@ -3,6 +3,7 @@
 *  🔖 **Origine et manifeste**
 *  🔖 **La culture Agile**
 *  🔖 **Différences entre approches prédictiveset approches adaptatives**
+*  🔖 **Adaptatives**
 
 ___
 
@@ -103,3 +104,11 @@ Réprésentée avec un cercle proposant une approche itérative, chaque session 
 *Il faudra mettre cette itération dans le contexte de sa pratique.*
 
 ![image](https://raw.githubusercontent.com/seeren-training/Agile/master/wiki/resources/01/07-Iteratif.jpg)
+
+___
+
+## 📑 Adaptative
+
+Utiliser le scope comme variable d'ajustement permet de répondre aux besoin réel.
+
+![image](https://raw.githubusercontent.com/seeren-training/Agile/master/wiki/resources/01/adaptative.jpg)
