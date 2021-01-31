@@ -39,9 +39,12 @@ La Product Vision box est ludique, elle représente au format boite de céréale
 
 #### Face arrière:
 
-* Besoins techniques (framework, langage…)
+* Ensemble des fonctionnalitées
 
 #### Faces de côté:
+
+* Ingrédients (languages, outils, frameworks...)
+* [Personas](https://github.com/seeren-training/UI-UX/wiki/02#-persona)
 
 ### 🏷️ **Valeur**
 
@@ -53,14 +56,14 @@ ___
 
 ## 👨🏻‍💻 Manipulation
 
-Par groupes, utiliser la **Product Vision Box** et la **Value Proposition** pour partager une vision et la valeur d'un projet. **Le projet doit être une application web, mobile ou les deux** de petite taille. Des projets seront sélectionnés pour les prochaines manipulations, en fonction de leur faisabilité **ils peuvent se réaliser dans la suite de la formation**.
+Par groupes, utiliser la **Product Vision Box** et la **Value Proposition** pour partager une vision et la valeur d'un projet. Le projet doit être une application web, mobile ou les deux, de petite taille.
 
 ___
 
 
 ## 📑 Rôles et responsabilités
 
-La taille d'une équipe varie du cadra agile, nous utiliserons SCRUM.
+La taille d'une équipe varie en fonction du cadre agile, nous utiliserons SCRUM.
 
 ![image](https://raw.githubusercontent.com/seeren-training/Agile/master/wiki/resources/03/04-Actors.jpg)
 
@@ -88,7 +91,7 @@ ___
 
 ## 👨🏻‍💻 Manipulation
 
-Après avoir procédé à un **vote par objection** pour les 2 ou 3 projets ayant le plus de valeur, un **Product Owner associé** est identifié. Chaque Product Owner doit pouvoir s'appuyer sur un **Scrum Master** qu'il désigne ou qui se propose. Autour d'un **Product Owner** et d'un **Scrum Master**, une équipe de développement doit s'auto former. 
+Pour chaque projet un **Product Owner associé** est identifié. Chaque Product Owner doit pouvoir s'appuyer sur un **Scrum Master** qu'il désigne ou qui se propose. Autour d'un **Product Owner** et d'un **Scrum Master**, une équipe de développement doit s'auto former. 
 
 ___
 
@@ -122,7 +125,7 @@ ___
 
 ## 👨🏻‍💻 Manipulation
 
-Pour chaque projet, **aider le responsable produit à rédiger et prioriser les histoires utilisateur** du projet pour constituer le backlog produit. **Le backlog produit doit se trouver sur github dans l'organisation de notre session**, créer  un **repository** puis un **projet** pour ce repository.
+Pour chaque projet, aider le responsable produit à rédiger et prioriser les histoires utilisateur du projet pour constituer le backlog produit. Il peut être fait sur Trello ou sur Vivify Scrum que je recommande pour son respect du cadre scrum.
 
 ___
 
@@ -149,7 +152,7 @@ La planning pocker n'est pas un évènement officiel, il permet collégialement 
 * Une seconde partie est lancée
 * La moyenne des unités est prise en compte
 
-🔗 [@see scrumpoker-online](https://www.scrumpoker-online.org/)
+[Scrum Poker Online](https://www.scrumpoker-online.org/)
 
 ___
 
@@ -177,9 +180,13 @@ Une fois une dette technique collectée, il faut la solder quand le complément 
 
 ![image](https://raw.githubusercontent.com/seeren-training/Agile/master/wiki/resources/03/12-Refactoring.jpg)
 
-Ne pas refactoriser aura un impact sur le développement futur du projet. Il est possible que cette étape ne soit pas agréable.
+Ne pas refactoriser aura un impact sur le développement futur du projet.
 
 ![image](https://raw.githubusercontent.com/seeren-training/Agile/master/wiki/resources/03/13-Why.jpg)
+
+Il est possible que cette étape ne soit pas agréable.
+
+![image](./resources/03/refactoring-cat.gif)
 
 ___
 
@@ -187,7 +194,7 @@ ___
 
 Pour suivre l'accomplissement de tâches vous pouvez utiliser des graphiques d'avancement du projet. Ce n'est pas un outil de surveillance, il appartient à l'équipe de développement et ce calcul automatiquement en fonction des outils utilisés, sinon chacun est responsable de le maintenir.
 
-🔗 [@see Understanding Burndown Charts](https://zepel.io/agile/reports/burndown/)
+[Understanding Burndown Charts](https://zepel.io/agile/reports/burndown/)
 
 ![image](https://raw.githubusercontent.com/seeren-training/Agile/master/wiki/resources/03/15-Burn-down-and-up.jpg)
 
