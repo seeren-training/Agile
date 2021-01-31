@@ -111,4 +111,4 @@ ___
 
 Utiliser le scope comme variable d'ajustement permet de répondre aux besoin réel.
 
-![image](https://raw.githubusercontent.com/seeren-training/Agile/master/wiki/resources/01/adaptative.jpg)
+![image](https://raw.githubusercontent.com/seeren-training/Agile/master/wiki/resources/01/08-adaptative.jpg)
