@@ -186,7 +186,7 @@ Ne pas refactoriser aura un impact sur le développement futur du projet.
 
 Il est possible que cette étape ne soit pas agréable.
 
-![image](./resources/03/refactoring-cat.gif)
+![image](https://raw.githubusercontent.com/seeren-training/Agile/master/wiki/resources/03/refactoring-cat.gif)
 
 ___
 
