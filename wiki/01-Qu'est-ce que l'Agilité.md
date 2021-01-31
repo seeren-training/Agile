@@ -16,7 +16,7 @@ Les méthodes agiles sont des groupes de pratiques de pilotage et de réalisatio
 
 ### 🏷️ **Manifeste**
 
-🔗 [@see agilemanifesto](https://agilemanifesto.org/)
+🔗 [Manifesto for Agile Software Development](https://agilemanifesto.org/)
 
 En février 2001, aux États-Unis, dix-sept spécialistes du développement logiciel se sont réunis pour débattre le thème unificateur de leurs méthodes respectives, jusqu'alors appelées sans consensus méthodes lights. 
 

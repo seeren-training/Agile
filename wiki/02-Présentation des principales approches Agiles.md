@@ -34,11 +34,14 @@ Scrum encadre les sessions de travail pour de **3 à 9 personnes**. La méthode 
 * Respect
 * Openness
 
+> Nous étudierons en détail le Scrum guide après avoir détaillé la notion d'agilité.
 ___
 
 ## 📑 eXtrem Programming
 
 XP encadre les sessions de travail pour **2 personnes**.
+
+[An Ordinary Pair Programming Session](https://www.youtube.com/watch?v=PdKup_ybJro)
 
 ![image ](https://raw.githubusercontent.com/seeren-training/Agile/master/wiki/resources/02/03-XP-Overview.jpg)
 
@@ -52,9 +55,57 @@ XP encadre les sessions de travail pour **2 personnes**.
 
 ### 🏷️ **Iteration**
 
-La limitation du nombre d'heures de travail par semaine, la métaphore, l'**intégration continue** ou le **refactoring** sont des pricnipes qui doivent être mis en place.
+La limitation du nombre d'heures de travail par semaine, la métaphore, l'**intégration continue** ou le **refactoring** sont des principes qui doivent être mis en place.
 
 ![image ](https://raw.githubusercontent.com/seeren-training/Agile/master/wiki/resources/02/04-XP.jpg)
+
+#### Simple Design
+
+![image ](https://raw.githubusercontent.com/seeren-training/Agile/master/wiki/resources/02/simple-design.jpg)
+
+#### Simple Design
+
+![image ](https://raw.githubusercontent.com/seeren-training/Agile/master/wiki/resources/02/simple-design.jpg)
+
+#### Small Release
+
+![image ](https://raw.githubusercontent.com/seeren-training/Agile/master/wiki/resources/02/small-release.jpg)
+
+#### Metaphor
+
+![image ](https://raw.githubusercontent.com/seeren-training/Agile/master/wiki/resources/02/metaphor.jpg)
+
+#### Testing
+
+![image ](https://raw.githubusercontent.com/seeren-training/Agile/master/wiki/resources/02/testing.jpg)
+
+#### Refactoring
+
+![image ](https://raw.githubusercontent.com/seeren-training/Agile/master/wiki/resources/02/refactoring.jpg)
+
+#### Pair Programming
+
+![image](https://raw.githubusercontent.com/seeren-training/Agile/master/wiki/resources/02/pair-programming.jpg)
+
+#### Ownership
+
+![image](https://raw.githubusercontent.com/seeren-training/Agile/master/wiki/resources/02/ownership.jpg)
+
+#### Continuous Integration
+
+![image](https://raw.githubusercontent.com/seeren-training/Agile/master/wiki/resources/02/integration-continue.jpg)
+
+#### Hour
+
+![image](https://raw.githubusercontent.com/seeren-training/Agile/master/wiki/resources/02/hour.jpg)
+
+#### Client
+
+![image](https://raw.githubusercontent.com/seeren-training/Agile/master/wiki/resources/02/client.jpg)
+
+#### Standard
+
+![image](https://raw.githubusercontent.com/seeren-training/Agile/master/wiki/resources/02/standard.jpg)
 
 ___
 
@@ -86,8 +137,10 @@ ___
 
 ## 📑 Agilité et DevOps
 
+[Wiki DevOps](https://github.com/seeren-training/DevOps/wiki/01)
+
 Le DevOps vise à unifier le développement logiciel (dev) et l'administration des infrastructures (ops). Une équipe doit viser des compétences cross fonctionnels pour atteindre cet objectif et l'agilité propose ces principes.
 
 ![image ](https://raw.githubusercontent.com/seeren-training/Agile/master/wiki/resources/02/09-Agile-devOps.jpg)
 
-Pour pouvoir le mettre en place, l'équip de développement doit être sensible à la notion d'**intégration continue**, de test en continue et de **livraison en continue**.
+Pour pouvoir le mettre en place, l'équipe de développement doit être sensible à la notion d'**intégration continue**, de test en continue et de **livraison en continue**.
