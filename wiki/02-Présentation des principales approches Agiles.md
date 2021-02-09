@@ -89,6 +89,6 @@ ___
 
 Le DevOps vise à unifier le développement logiciel (dev) et l'administration des infrastructures (ops). Une équipe doit viser des compétences cross fonctionnels pour atteindre cet objectif et l'agilité propose ces principes.
 
-![image ](https://raw.githubusercontent.com/seeren-training/Agile/master/wiki/resources/02/09-Agile-devOps.jpg)
+![image ](https://raw.githubusercontent.com/seeren-training/Agile/master/wiki/resources/02/09-Agile-devOps.png)
 
 Pour pouvoir le mettre en place, l'équipe de développement doit être sensible à la notion d'**intégration continue**, de test en continue et de **livraison en continue**.
