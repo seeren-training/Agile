@@ -133,8 +133,6 @@ ___
 
 La DoD correspond à tous les critères d'acceptation qu'une tache ou une histoire utilisateur doit valider pour qu'elle soit considérée comme finie. La Dod appartient à l'entreprise et concerne tous les projets.
 
-![image](https://raw.githubusercontent.com/seeren-training/Agile/master/wiki/resources/03/09-Dod-Example.png)
-
 ___
 
 ## 📑 Estimation (planning poker...)
