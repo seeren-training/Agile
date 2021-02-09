@@ -23,14 +23,16 @@ En février 2001, aux États-Unis, dix-sept spécialistes du développement logi
 
 #### 4 valeurs
 
+![image](https://raw.githubusercontent.com/seeren-training/Agile/master/wiki/resources/01/01-Values.png)
+
 * Individuals and interactions *over processes and tools*
 * Working software *over comprehensive documentation*
 * Customer collaboration *over contract negotiation*
 * Responding to change *over following a plan*
 
-![image](https://raw.githubusercontent.com/seeren-training/Agile/master/wiki/resources/01/01-Values.png)
-
 #### 12 principes
+
+![image](https://raw.githubusercontent.com/seeren-training/Agile/master/wiki/resources/01/02-Principes.png)
 
 * Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.
 * Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.
@@ -44,8 +46,6 @@ En février 2001, aux États-Unis, dix-sept spécialistes du développement logi
 * Simplicity--the art of maximizing the amount of work not done--is essential.
 * The best architectures, requirements, and designs emerge from self-organizing teams.
 * At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly. 
-
-![image](https://raw.githubusercontent.com/seeren-training/Agile/master/wiki/resources/01/02-Principes.png)
 
 ___
 
