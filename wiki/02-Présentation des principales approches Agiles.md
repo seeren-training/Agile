@@ -37,13 +37,13 @@ Scrum encadre les sessions de travail pour de **3 à 9 personnes**. La méthode 
 > Nous étudierons en détail le Scrum guide après avoir détaillé la notion d'agilité.
 ___
 
-## 📑 eXtrem Programming
+## 📑 Extreme Programming
 
 XP encadre les sessions de travail pour **2 personnes**.
 
 [An Ordinary Pair Programming Session](https://www.youtube.com/watch?v=PdKup_ybJro)
 
-![image ](https://raw.githubusercontent.com/seeren-training/Agile/master/wiki/resources/02/03-XP-Overview.jpg)
+![image](https://raw.githubusercontent.com/seeren-training/Agile/master/wiki/resources/02/04-XP.png)
 
 ### 🏷️ **Valeurs**
 
@@ -57,71 +57,21 @@ XP encadre les sessions de travail pour **2 personnes**.
 
 La limitation du nombre d'heures de travail par semaine, la métaphore, l'**intégration continue** ou le **refactoring** sont des principes qui doivent être mis en place.
 
-![image ](https://raw.githubusercontent.com/seeren-training/Agile/master/wiki/resources/02/04-XP.jpg)
-
-#### Simple Design
-
-![image ](https://raw.githubusercontent.com/seeren-training/Agile/master/wiki/resources/02/simple-design.jpg)
-
-#### Simple Design
-
-![image ](https://raw.githubusercontent.com/seeren-training/Agile/master/wiki/resources/02/simple-design.jpg)
-
-#### Small Release
-
-![image ](https://raw.githubusercontent.com/seeren-training/Agile/master/wiki/resources/02/small-release.jpg)
-
-#### Metaphor
-
-![image ](https://raw.githubusercontent.com/seeren-training/Agile/master/wiki/resources/02/metaphor.jpg)
-
-#### Testing
-
-![image ](https://raw.githubusercontent.com/seeren-training/Agile/master/wiki/resources/02/testing.jpg)
-
-#### Refactoring
-
-![image ](https://raw.githubusercontent.com/seeren-training/Agile/master/wiki/resources/02/refactoring.jpg)
-
-#### Pair Programming
-
-![image](https://raw.githubusercontent.com/seeren-training/Agile/master/wiki/resources/02/pair-programming.jpg)
-
-#### Ownership
-
-![image](https://raw.githubusercontent.com/seeren-training/Agile/master/wiki/resources/02/ownership.jpg)
-
-#### Continuous Integration
-
-![image](https://raw.githubusercontent.com/seeren-training/Agile/master/wiki/resources/02/integration-continue.jpg)
-
-#### Hour
-
-![image](https://raw.githubusercontent.com/seeren-training/Agile/master/wiki/resources/02/hour.jpg)
-
-#### Client
-
-![image](https://raw.githubusercontent.com/seeren-training/Agile/master/wiki/resources/02/client.jpg)
-
-#### Standard
-
-![image](https://raw.githubusercontent.com/seeren-training/Agile/master/wiki/resources/02/standard.jpg)
-
 ___
 
 ## 📑 Kanban
 
 Kanban (étiquette en Japonais) n'est pas un cadre de travail mais une méthode de visualisation du travail utilisé par la plupart des méthodes agiles, l'on retrouve à l'inverse le diagramme de gantt.
 
-![image ](https://raw.githubusercontent.com/seeren-training/Agile/master/wiki/resources/02/05-Kanban.jpg)
+![image ](https://raw.githubusercontent.com/seeren-training/Agile/master/wiki/resources/02/05-Kanban.png)
 
 Ce tableau se personnalise selon les besoins.
 
-![image ](https://raw.githubusercontent.com/seeren-training/Agile/master/wiki/resources/02/06-Kanban-custom.jpg)
+![image ](https://raw.githubusercontent.com/seeren-training/Agile/master/wiki/resources/02/06-Kanban-custom.png)
 
 La philosophie du Kanban est d'être éphémère et non informatisé.
 
-![image ](https://raw.githubusercontent.com/seeren-training/Agile/master/wiki/resources/02/07-Kanban-exemple.jpg)
+![image ](https://raw.githubusercontent.com/seeren-training/Agile/master/wiki/resources/02/07-Kanban-exemple.png)
 
 ___
 
@@ -129,15 +79,13 @@ ___
 
 Le lean (maigre) provient des industries automobiles Japonaise et utilise une approche prédictive pour améliorer la productivité, maîtriser les coûts et les délais.
 
-![image ](https://raw.githubusercontent.com/seeren-training/Agile/master/wiki/resources/02/08-Lean.jpg)
+![image ](https://raw.githubusercontent.com/seeren-training/Agile/master/wiki/resources/02/08-Lean.png)
 
 Un management Lean peut être complémentaire à de l'agilité mais s'impose quand le volume de variation est faible.
 
 ___
 
 ## 📑 Agilité et DevOps
-
-[Wiki DevOps](https://github.com/seeren-training/DevOps/wiki/01)
 
 Le DevOps vise à unifier le développement logiciel (dev) et l'administration des infrastructures (ops). Une équipe doit viser des compétences cross fonctionnels pour atteindre cet objectif et l'agilité propose ces principes.
 
